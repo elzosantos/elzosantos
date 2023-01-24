@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elzo Santos from Brazil
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Laravel, Spring and React
+- 🌱 I’m currently learning Laravel, Vue and Inertia
 - 📫 How to reach me - @elzosantos
 
 <!---
