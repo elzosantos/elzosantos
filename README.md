@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Elzo Santos from Brazil
-- 👀 I’m interested in development
-- 🌱 I’m currently developing in Laravel, Vue and Tailwind
+- 👀 I’m interested in development and cloud
 - 📫 How to reach me - https://br.linkedin.com/in/elzosantos
 
 <!---
